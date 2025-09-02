@@ -1,4 +1,4 @@
-# Kia ora, I'm Brodie-Jean 👾
+# kia ora ra 👾
 
 I’m passionate about **digital collections, data partnerships, and open access projects**.  
 I am employed at **Auckland Museum**, and my role allows me to engage with digital partnerships and large-scale batch uploads to platforms like Wikimedia Commons, Pinterest, Flickr, Google Arts & Culture, and GBIF.  
