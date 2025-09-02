@@ -8,7 +8,7 @@ My interests include **metadata governance**, **digital preservation**, **data v
 
 ## Tools & Skills
 - Primary Languages: Python, R, SQL, GREL  
-- Data Tools: OpenRefine, Pandas, Power BI, Git/GitHub  
+- Data Tools: OpenRefine, Pandas, Power BI 
 - Platforms: Wikimedia Commons, Wikidata, Pinterest, Flickr, Internet Archive, BHL, Google Arts & Culture and GBIF  
 - Other Interests: Machine learning, authority management, ontologies, and data round-tripping
 
