@@ -1,7 +1,7 @@
 # kia ora ra 👾
 
 I’m passionate about **digital collections, data partnerships, and open access projects**.  
-I am employed at **Auckland Museum**, and my role allows me to engage with digital partnerships and large-scale batch uploads to platforms like Wikimedia Commons, Pinterest, Flickr, Google Arts & Culture, and GBIF.  
+I am employed at **Auckland Museum**, and my role allows me to engage with digital partnership platforms via large-scale batch uploads and ongoing data maintenance.  
 My interests include **metadata governance**, **digital preservation**, **data visualisations**, **linked open data**, and building tools to support GLAM institutions' contributions of open access content.  
 
 ---
@@ -9,7 +9,7 @@ My interests include **metadata governance**, **digital preservation**, **data v
 ## Tools & Skills
 - Primary Languages: Python, R, SQL, GREL  
 - Data Tools: OpenRefine, Pandas, Power BI, Git/GitHub  
-- Platforms: Wikimedia Commons, Wikidata, Pinterest, Flickr, Internet Archive, BHL  
+- Platforms: Wikimedia Commons, Wikidata, Pinterest, Flickr, Internet Archive, BHL, Google Arts & Culture and GBIF  
 - Other Interests: Machine learning, authority management, ontologies, and data round-tripping
 
 ---
